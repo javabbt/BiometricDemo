@@ -1,0 +1,2 @@
+rootProject.name = "BiometricDemo"
+include ':app'
